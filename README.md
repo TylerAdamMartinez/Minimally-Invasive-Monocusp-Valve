@@ -7,5 +7,5 @@ Included Languages:
 * MATlab
 
 ## The Heart Valve Hand Drawn Picture
-![ Picture of Heart Valve ](BMEN3310_images/Valve1.jpeg)
+![ Picture of Heart Valve ](BMEN3310_images/Valve0.jpeg)
 
