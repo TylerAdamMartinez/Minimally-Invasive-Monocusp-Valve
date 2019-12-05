@@ -1,4 +1,4 @@
-# **Mechatronic-Heart-Valve** *repository*
+# **Minimally-Invasive-Monocusp-Valve** *repository*
 This repository holds all the files for the final BMEN 3310 Project. <br />
 
 Included Languages:
