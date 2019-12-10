@@ -6,7 +6,24 @@ Included Languages:
 * Python
 * MATlab
 
+## Contributors  
+<table style = "width:100%" align="center">
+  <th><a href="https://www.linkedin.com/in/tyleradammartinez/" class="link">Tyler Adam Martinez</a></th>  
+  <th>Mason Forshage</th>
+  <th>Adrian Rodriguez</th> 
+  </tr><tr>
+  <td><img src="BioSignals/ECG-signal.png" alt="" border="3" height="250" width="500" /></td>
+  <td><img src="BioSignals/EMG-signal.png" alt="" border="3" height="250" width="500" /></td>
+  <td><img src="BioSignals/EEG-signal.png" alt="" border="3" height="250" width="500" /></td>
+  </tr>
+  <td>put what we did here... </td>
+  <td>Describtion of ECG here.. Muscle</td>
+  <td>Describtion of ECG here.. Brain</td>
+</table>
+
+
 ## The Heart Valve Hand Drawn Picture
 ![ Picture of Heart Valve 0 ](BMEN3310_images/Valve0.jpeg)
 ![ Picture of Heart Valve 1 ](BMEN3310_images/Valve1.jpeg)
 ![ Picture of Heart Valve 2 ](BMEN3310_images/Valve2.jpeg)
+
