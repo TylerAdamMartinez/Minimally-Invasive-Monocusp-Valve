@@ -16,9 +16,9 @@ Included Languages:
   <td><img src="BioSignals/EMG-signal.png" alt="" border="3" height="250" width="500" /></td>
   <td><img src="BioSignals/EEG-signal.png" alt="" border="3" height="250" width="500" /></td>
   </tr>
-  <td>put what we did here... </td>
-  <td>Describtion of ECG here.. Muscle</td>
-  <td>Describtion of ECG here.. Brain</td>
+  <td>Coding, Sensor Circuity, and </br>Hemodynamic Parameter Analysis</td>
+  <td>CAD Design, Illustration, and Materials</td>
+  <td>Mechanics, Presentation, and CAD Analysis</td>
 </table>
 
 
