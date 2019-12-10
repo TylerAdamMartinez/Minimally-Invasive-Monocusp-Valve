@@ -13,7 +13,7 @@ Included Languages:
   <th>Adrian Rodriguez</th> 
   </tr><tr>
   <td><img src="BMEN3310_images/TylerAdamMartinez.JPG" alt="" border="3" height="250" width="250" /></td>
-  <td><img src="BioSignals/EMG-signal.png" alt="" border="3" height="250" width="500" /></td>
+  <td><img src="BMEN3310_images/Mason.jpeg" alt="" border="3" height="250" width="250" /></td>
   <td><img src="BioSignals/EEG-signal.png" alt="" border="3" height="250" width="500" /></td>
   </tr>
   <td>Coding, Sensor Circuity, and </br>Hemodynamic Parameter Analysis</td>
