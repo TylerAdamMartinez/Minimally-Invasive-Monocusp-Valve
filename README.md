@@ -12,7 +12,7 @@ Included Languages:
   <th>Mason Forshage</th>
   <th>Adrian Rodriguez</th> 
   </tr><tr>
-  <td><img src="BMEN3310_images/TylerAdamMartinez.JPG" alt="" border="3" height="250" width="250" /></td>
+  <td><img src="BMEN3310_images/TylerUNT.png" alt="" border="3" height="250" width="250" /></td>
   <td><img src="BMEN3310_images/Mason.jpeg" alt="" border="3" height="250" width="250" /></td>
   <td><img src="BMEN3310_images/Ardrian's_Cat.jpeg" alt="" border="3" height="250" width="250" /></td>
   </tr>
