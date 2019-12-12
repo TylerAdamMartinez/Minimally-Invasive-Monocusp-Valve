@@ -12,15 +12,17 @@ Included Languages:
   <th>Mason Forshage</th>
   <th>Adrian Rodriguez</th> 
   </tr><tr>
-  <td><img src="BMEN3310_images/TylerUNT.png" alt="" border="3" height="250" width="250" /></td>
-  <td><img src="BMEN3310_images/Mason.jpeg" alt="" border="3" height="250" width="250" /></td>
-  <td><img src="BMEN3310_images/Ardrian's_Cat.jpeg" alt="" border="3" height="250" width="250" /></td>
+  <td><img src="BMEN3310_images/TylerUNT.png" alt="" border="1" height="300" width="300" /></td>
+  <td><img src="BMEN3310_images/Mason.jpeg" alt="" border="1" height="300" width="300" /></td>
+  <td><img src="BMEN3310_images/Ardrian's_Cat.jpeg" alt="" border="1" height="300" width="300" /></td>
   </tr>
   <td>Coding, Sensor Circuity, and </br>Hemodynamic Parameter Analysis</td>
   <td>CAD Design, Illustration, and Materials</td>
   <td>Mechanics, Presentation, and CAD Analysis</td>
 </table>
 
+## Hemodynamic Parameter Analysis Algorithm
+![ Hemodynamic Parameter Analysis Algorithm ](BMEN3310_images/HemodynamicParameterAnalysisAlgorithm.jpg)
 
 ## The Heart Valve Hand Drawn Picture
 ![ Picture of Heart Valve 0 ](BMEN3310_images/Valve0.jpeg)
