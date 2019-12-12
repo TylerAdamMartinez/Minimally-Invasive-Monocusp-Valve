@@ -1,7 +1,5 @@
 """
 This code was created by Tyler Adam Martinez for the BMEN3310 Final
-This MATlab script is the Hemodynamic Parameter Analysis porttion
-of the final project.
 
 #This are the varibles and what they stand for.
 
