@@ -1,5 +1,5 @@
 # **Minimally-Invasive-Monocusp-Valve** *repository*
-This repository holds all the files for the final BMEN 3310 Project. <br />
+This repository holds all the files for the final Engineering Measurements from Human Systems (BMEN 3310) Project. <br />
 
 Included Languages:
 * C++
