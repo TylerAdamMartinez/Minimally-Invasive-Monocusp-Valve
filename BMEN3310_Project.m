@@ -1,6 +1,8 @@
 Valve = csvread('ValveSensor.csv');
 ECG = csvread('ECG.csv');
 
+figure('Name','ECG compared to Hall Sensor Signal','NumberTitle','off');
+
 subplot(2,1,1);
 plot(ECG);
 title("ECG"); ylabel("Amplitude (mV)"); xlabel("Time");
